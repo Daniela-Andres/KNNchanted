@@ -1,0 +1,117 @@
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to C:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\target\scala-2.13\api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.5.7:compile for Scala 2.13.2[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Scaladoc with arguments:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\target\scala-2.13\api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:C:\Users\danie\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-compiler_2.13.2\1.15.0\scalajs-compiler_2.13.2-1.15.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Program Files\Java\jdk-8\jre\lib\resources.jar;C:\Program Files\Java\jdk-8\jre\lib\rt.jar;C:\Program Files\Java\jdk-8\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk-8\jre\lib\jsse.jar;C:\Program Files\Java\jdk-8\jre\lib\jce.jar;C:\Program Files\Java\jdk-8\jre\lib\charsets.jar;C:\Program Files\Java\jdk-8\jre\lib\jfr.jar;C:\Program Files\Java\jdk-8\jre\classes;C:\Users\danie\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.2\scala-library-2.13.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\danie\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-library_2.13\1.15.0\scalajs-library_2.13-1.15.0.jar;C:\Users\danie\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-scalalib_2.13\2.13.12%2B1.15.0\scalajs-scalalib_2.13-2.13.12%2B1.15.0.jar;C:\Users\danie\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-dom_sjs1_2.13\1.0.0\scalajs-dom_sjs1_2.13-1.0.0.jar;C:\Users\danie\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-js\scalajs-javalib\1.15.0\scalajs-javalib-1.15.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/AlgoAbschnitt.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/AlgoInfo.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/AusfuehrenAbschnitt.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/CoordinateSystem.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/DataInfo.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/Datapoint.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/DatenAbschnitt.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/Datensatz.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/Euklid.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/MainApp.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/Manhattan.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/Metrik.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/NormalisierungAbschnitt.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/Parser.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/Point2D.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/Reverse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:/Users/danie/Programme/knn-website/knn_WebApp_pixelanzeige/source/application/uniproject/src/main/scala/de/ServerResourceReader.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\src\main\scala\de\DatenAbschnitt.scala:145:29: The global execution context in Scala.js is based on JS Promises (microtasks).[0m
+[0m[[0m[33mwarn[0m] [0m[0mUsing it may prevent macrotasks (I/O, timers, UI rendering) from running reliably.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mUnfortunately, there is no way with ECMAScript only to implement a performant[0m
+[0m[[0m[33mwarn[0m] [0m[0mmacrotask execution context (and hence Scala.js core does not contain one).[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mWe recommend you use: https://github.com/scala-js/scala-js-macrotask-executor[0m
+[0m[[0m[33mwarn[0m] [0m[0mPlease refer to the README.md of that project for more details regarding[0m
+[0m[[0m[33mwarn[0m] [0m[0mmicrotask vs. macrotask execution contexts.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mIf you do not care about macrotask fairness, you can silence this warning by:[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Adding @nowarn("cat=other") (Scala >= 2.13.x only)[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Setting the -P:scalajs:nowarnGlobalExecutionContext compiler option (Scala < 3.x.y only)[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Using scala.scalajs.concurrent.JSExecutionContext.queue[0m
+[0m[[0m[33mwarn[0m] [0m[0m  (the implementation of ExecutionContext.global in Scala.js) directly.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mIf you do not care about performance, you can use[0m
+[0m[[0m[33mwarn[0m] [0m[0mscala.scalajs.concurrent.QueueExecutionContext.timeouts().[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt is based on setTimeout which makes it fair but slow (due to clamping).[0m
+[0m[[0m[33mwarn[0m] [0m[0m                [0m
+[0m[[0m[33mwarn[0m] [0m[0m        tobeData.onComplete {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\src\main\scala\de\DatenAbschnitt.scala:137:21: The global execution context in Scala.js is based on JS Promises (microtasks).[0m
+[0m[[0m[33mwarn[0m] [0m[0mUsing it may prevent macrotasks (I/O, timers, UI rendering) from running reliably.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mUnfortunately, there is no way with ECMAScript only to implement a performant[0m
+[0m[[0m[33mwarn[0m] [0m[0mmacrotask execution context (and hence Scala.js core does not contain one).[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mWe recommend you use: https://github.com/scala-js/scala-js-macrotask-executor[0m
+[0m[[0m[33mwarn[0m] [0m[0mPlease refer to the README.md of that project for more details regarding[0m
+[0m[[0m[33mwarn[0m] [0m[0mmicrotask vs. macrotask execution contexts.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mIf you do not care about macrotask fairness, you can silence this warning by:[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Adding @nowarn("cat=other") (Scala >= 2.13.x only)[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Setting the -P:scalajs:nowarnGlobalExecutionContext compiler option (Scala < 3.x.y only)[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Using scala.scalajs.concurrent.JSExecutionContext.queue[0m
+[0m[[0m[33mwarn[0m] [0m[0m  (the implementation of ExecutionContext.global in Scala.js) directly.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mIf you do not care about performance, you can use[0m
+[0m[[0m[33mwarn[0m] [0m[0mscala.scalajs.concurrent.QueueExecutionContext.timeouts().[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt is based on setTimeout which makes it fair but slow (due to clamping).[0m
+[0m[[0m[33mwarn[0m] [0m[0m                [0m
+[0m[[0m[33mwarn[0m] [0m[0m    data.onComplete {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\src\main\scala\de\DatenAbschnitt.scala:203:29: The global execution context in Scala.js is based on JS Promises (microtasks).[0m
+[0m[[0m[33mwarn[0m] [0m[0mUsing it may prevent macrotasks (I/O, timers, UI rendering) from running reliably.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mUnfortunately, there is no way with ECMAScript only to implement a performant[0m
+[0m[[0m[33mwarn[0m] [0m[0mmacrotask execution context (and hence Scala.js core does not contain one).[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mWe recommend you use: https://github.com/scala-js/scala-js-macrotask-executor[0m
+[0m[[0m[33mwarn[0m] [0m[0mPlease refer to the README.md of that project for more details regarding[0m
+[0m[[0m[33mwarn[0m] [0m[0mmicrotask vs. macrotask execution contexts.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mIf you do not care about macrotask fairness, you can silence this warning by:[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Adding @nowarn("cat=other") (Scala >= 2.13.x only)[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Setting the -P:scalajs:nowarnGlobalExecutionContext compiler option (Scala < 3.x.y only)[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Using scala.scalajs.concurrent.JSExecutionContext.queue[0m
+[0m[[0m[33mwarn[0m] [0m[0m  (the implementation of ExecutionContext.global in Scala.js) directly.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mIf you do not care about performance, you can use[0m
+[0m[[0m[33mwarn[0m] [0m[0mscala.scalajs.concurrent.QueueExecutionContext.timeouts().[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt is based on setTimeout which makes it fair but slow (due to clamping).[0m
+[0m[[0m[33mwarn[0m] [0m[0m                [0m
+[0m[[0m[33mwarn[0m] [0m[0m        tobeData.onComplete {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\src\main\scala\de\ServerResourceReader.scala:13:94: The global execution context in Scala.js is based on JS Promises (microtasks).[0m
+[0m[[0m[33mwarn[0m] [0m[0mUsing it may prevent macrotasks (I/O, timers, UI rendering) from running reliably.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mUnfortunately, there is no way with ECMAScript only to implement a performant[0m
+[0m[[0m[33mwarn[0m] [0m[0mmacrotask execution context (and hence Scala.js core does not contain one).[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mWe recommend you use: https://github.com/scala-js/scala-js-macrotask-executor[0m
+[0m[[0m[33mwarn[0m] [0m[0mPlease refer to the README.md of that project for more details regarding[0m
+[0m[[0m[33mwarn[0m] [0m[0mmicrotask vs. macrotask execution contexts.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mIf you do not care about macrotask fairness, you can silence this warning by:[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Adding @nowarn("cat=other") (Scala >= 2.13.x only)[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Setting the -P:scalajs:nowarnGlobalExecutionContext compiler option (Scala < 3.x.y only)[0m
+[0m[[0m[33mwarn[0m] [0m[0m- Using scala.scalajs.concurrent.JSExecutionContext.queue[0m
+[0m[[0m[33mwarn[0m] [0m[0m  (the implementation of ExecutionContext.global in Scala.js) directly.[0m
+[0m[[0m[33mwarn[0m] [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0mIf you do not care about performance, you can use[0m
+[0m[[0m[33mwarn[0m] [0m[0mscala.scalajs.concurrent.QueueExecutionContext.timeouts().[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt is based on setTimeout which makes it fair but slow (due to clamping).[0m
+[0m[[0m[33mwarn[0m] [0m[0m                [0m
+[0m[[0m[33mwarn[0m] [0m[0m  private implicit val context: ExecutionContextExecutor = scala.concurrent.ExecutionContext.global[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m

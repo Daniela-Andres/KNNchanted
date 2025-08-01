@@ -1,0 +1,24 @@
+[info] Fast optimizing C:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\target\scala-2.13\myproject-fastopt
+[debug] Linker: Compute reachability: 27923 us
+[debug] Linker: Assemble LinkedClasses: 10366 us
+[debug] Linker: 65601 us
+[debug] Optimizer: Batch mode: false
+[debug] Optimizer: Incremental part: 37063 us
+[debug] Optimizer: Optimizing 9 methods.
+[debug] Optimizer: Optimizer part: 8424 us
+[debug] Optimizer: 50325 us
+[debug] Refiner: Compute reachability: 13432 us
+[debug] Refiner: Assemble LinkedClasses: 5466 us
+[debug] Refiner: 19625 us
+[debug] Module Splitter: Calculate Dependency Info: 292 us
+[debug] Module Splitter: Analyze Modules: 46 us
+[debug] Module Splitter: Assemble Modules: 499 us
+[debug] Module Splitter: 927 us
+[debug] Emitter: Generate Classes: 16570 us
+[debug] Emitter: Write trees: 1102 us
+[debug] Emitter: Class tree cache stats: reused: 603 -- invalidated: 1
+[debug] Emitter: Method tree cache stats: reused: 2363 -- invalidated: 5
+[debug] Emitter: 23022 us
+[debug] BasicBackend: Write result: 31193 us
+[debug] BasicBackend: total top-level trees: 5785; re-computed: 15
+[debug] BasicBackend: total modules: 1; re-written: 1

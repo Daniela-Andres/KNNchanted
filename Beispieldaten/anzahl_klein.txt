@@ -1,0 +1,12 @@
+X;Y;Kategorie
+rot;grün;blau
+Trainingsdaten
+3.83;3.14;rot
+4;2.5;rot
+5.25;3;grün
+5;2.6;grün
+4.75;4;blau
+Testdaten
+4;4;blau
+5.71;3.03;grün
+4.55;2.85;rot

@@ -1,0 +1,14 @@
+x;y;giftig oder essbar
+giftig;essbar
+Trainingsdaten
+0;0;giftig
+2;4;giftig
+5;1;giftig
+8;1;giftig
+5;7;essbar
+6;5;essbar
+9;8;essbar
+12;2;essbar
+Testdaten
+6;3;giftig
+10;4;essbar

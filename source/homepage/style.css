@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #f1f1f1;
+}
+
+/* Header/Blog Title */
+.header {
+  padding: 10px;
+  text-align: center;
+  background: white;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Clear floats after the columns */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.flex-container > div{
+  display: flex;
+  flex-direction: column;
+}
+
+
+/* Horizontale Zentrierung des coordsys-Divs */
+#coordsys {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Optional, für vertikale Zentrierung */
+  height: 100%; /* Optional, sorgt dafür, dass das Element die gesamte Höhe des Containers nutzt */
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+   /* Flexbox für Zentrierung und vertikale Anordnung */
+    display: flex;
+    flex-direction: column; /* Elemente werden untereinander angezeigt */
+    justify-content: center; /* Vertikale Zentrierung */
+    align-items: center;     /* Horizontale Zentrierung */
+}
+
+.tabellendiv{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.flex-container {
+  display: flex;
+  background-color: #333;
+  justify-content: space-around;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.flex-container > div > div > div{
+  background-color: #f1f1f1;
+  margin-top: 10px;
+}
+
+.metrikdiv{
+  display: flex;
+  flex-direction: column; /* Items übereinander anordnen */
+  gap: 10px; /* Abstand zwischen den inneren divs */
+}
+
+
+.input-container {
+  display: flex;
+  align-items: center; /* Vertikale Ausrichtung der Items */
+  gap: 10px; /* Abstand zwischen Label und Input */
+}
+
+table, td, th {
+  border: 4px solid white;
+  background-color: #f1f1f1;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 20px;
+}
+
+.highlight{
+    background-color:#333;
+    color:#ffffff;
+
+}
+
+.highlight2{
+    background-color:#666;
+    color:#ffffff;
+
+}
+
+.ueberschrift {
+    font-weight: bold;
+}
+
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+ }
+
+
+.wrapper {
+     position: relative;
+}
+
+#overlappedCanvas {
+     position: absolute;
+     top: 0;
+     left: 0;
+}
+
+
+

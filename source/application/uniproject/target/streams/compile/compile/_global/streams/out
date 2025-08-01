@@ -1,0 +1,69 @@
+[debug] Acquiring lock on file C:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\project\target\.sbt-compilation-infos\myproject-compile\.sbt-idea-lock ...
+[warn] C:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\src\main\scala\de\DatenAbschnitt.scala:145:29: The global execution context in Scala.js is based on JS Promises (microtasks).
+[warn] Using it may prevent macrotasks (I/O, timers, UI rendering) from running reliably.
+[warn] 
+[warn] Unfortunately, there is no way with ECMAScript only to implement a performant
+[warn] macrotask execution context (and hence Scala.js core does not contain one).
+[warn] 
+[warn] We recommend you use: https://github.com/scala-js/scala-js-macrotask-executor
+[warn] Please refer to the README.md of that project for more details regarding
+[warn] microtask vs. macrotask execution contexts.
+[warn] 
+[warn] If you do not care about macrotask fairness, you can silence this warning by:
+[warn] - Adding @nowarn("cat=other") (Scala >= 2.13.x only)
+[warn] - Setting the -P:scalajs:nowarnGlobalExecutionContext compiler option (Scala < 3.x.y only)
+[warn] - Using scala.scalajs.concurrent.JSExecutionContext.queue
+[warn]   (the implementation of ExecutionContext.global in Scala.js) directly.
+[warn] 
+[warn] If you do not care about performance, you can use
+[warn] scala.scalajs.concurrent.QueueExecutionContext.timeouts().
+[warn] It is based on setTimeout which makes it fair but slow (due to clamping).
+[warn]                 
+[warn]         tobeData.onComplete {
+[warn]                             ^
+[warn] C:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\src\main\scala\de\DatenAbschnitt.scala:137:21: The global execution context in Scala.js is based on JS Promises (microtasks).
+[warn] Using it may prevent macrotasks (I/O, timers, UI rendering) from running reliably.
+[warn] 
+[warn] Unfortunately, there is no way with ECMAScript only to implement a performant
+[warn] macrotask execution context (and hence Scala.js core does not contain one).
+[warn] 
+[warn] We recommend you use: https://github.com/scala-js/scala-js-macrotask-executor
+[warn] Please refer to the README.md of that project for more details regarding
+[warn] microtask vs. macrotask execution contexts.
+[warn] 
+[warn] If you do not care about macrotask fairness, you can silence this warning by:
+[warn] - Adding @nowarn("cat=other") (Scala >= 2.13.x only)
+[warn] - Setting the -P:scalajs:nowarnGlobalExecutionContext compiler option (Scala < 3.x.y only)
+[warn] - Using scala.scalajs.concurrent.JSExecutionContext.queue
+[warn]   (the implementation of ExecutionContext.global in Scala.js) directly.
+[warn] 
+[warn] If you do not care about performance, you can use
+[warn] scala.scalajs.concurrent.QueueExecutionContext.timeouts().
+[warn] It is based on setTimeout which makes it fair but slow (due to clamping).
+[warn]                 
+[warn]     data.onComplete {
+[warn]                     ^
+[warn] C:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\src\main\scala\de\DatenAbschnitt.scala:207:29: The global execution context in Scala.js is based on JS Promises (microtasks).
+[warn] Using it may prevent macrotasks (I/O, timers, UI rendering) from running reliably.
+[warn] 
+[warn] Unfortunately, there is no way with ECMAScript only to implement a performant
+[warn] macrotask execution context (and hence Scala.js core does not contain one).
+[warn] 
+[warn] We recommend you use: https://github.com/scala-js/scala-js-macrotask-executor
+[warn] Please refer to the README.md of that project for more details regarding
+[warn] microtask vs. macrotask execution contexts.
+[warn] 
+[warn] If you do not care about macrotask fairness, you can silence this warning by:
+[warn] - Adding @nowarn("cat=other") (Scala >= 2.13.x only)
+[warn] - Setting the -P:scalajs:nowarnGlobalExecutionContext compiler option (Scala < 3.x.y only)
+[warn] - Using scala.scalajs.concurrent.JSExecutionContext.queue
+[warn]   (the implementation of ExecutionContext.global in Scala.js) directly.
+[warn] 
+[warn] If you do not care about performance, you can use
+[warn] scala.scalajs.concurrent.QueueExecutionContext.timeouts().
+[warn] It is based on setTimeout which makes it fair but slow (due to clamping).
+[warn]                 
+[warn]         tobeData.onComplete {
+[warn]                             ^
+[warn] three warnings found
+[debug] Releasing lock on file C:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\project\target\.sbt-compilation-infos\myproject-compile\.sbt-idea-lock.

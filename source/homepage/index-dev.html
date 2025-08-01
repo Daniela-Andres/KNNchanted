@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Anwendung zur Visualisierung des k-Nächste-Nachbarn-Algorithmus mit variablen Parametern">
+    <meta name="keywords" content="Programm, Tool, Anwendung, Künstliche Intelligenz, k-Nächste-Nachbarn-Algorithmus, Clustering">
+    <meta name="author" content="Daniela Andres">
+
+    <meta name="google-site-verification" content="ts2zTKuzCrJyMAxW5hc8Ewi7JweDcAgQ3SwUW_gNxS8" />
+    <meta name="description" content="KNNchanted ist ein didaktisches Werkzeug mit dem zweidimensionale Punktdatensätze geladen, normalisiert und mit dem KNN-Algorithmus klassifiziert werden können.">
+
+    <title>KNNchanted</title>
+    <link rel="icon" type="image/vnd.microsoft.icon" href="favicon20x20.png">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+
+<div class="header">
+    <h1>KNNchanted</h1>
+</div>
+
+<div class="topnav">
+    <!--<a href="#">Link</a>
+    <a href="#">Link</a>
+    <a href="#">Link</a>-->
+    <a href="#" style="float:right">Handreichung</a>
+</div>
+
+<div class="row">
+    <div id="coordsys" class="card">
+
+    </div>
+    <div id="management" class="flex-container">
+        <div id="datensatz"><p>Datensatz laden</p></div>
+        <div id="normalisierung"><p>Normalisierung</p></div>
+
+        <div id="parameter"><p>Parameter</p></div>
+        <div id="ausfuehren"><p>Algorithmus ausführen</p></div>
+    </div>
+
+
+</div>
+
+<div class="footer">
+    <h2>Qualitätseinschätzung</h2>
+    <div class = tabellendiv>
+        <table id = "tabelle">
+            <!--<tr>
+                <td colspan="2" rowspan="2"></td>
+                <td class="ueberschrift" colspan="2">Vorhergesagter Wert</td>
+            </tr>
+            <tr>
+                <td class="highlight" >Positiv</td>
+                <td class="highlight">Negativ</td>
+            </tr>
+            <tr>
+                <td class="ueberschrift" rowspan="2">Tatsächlicher Wert</td>
+                <td class="highlight">Positiv</td>
+                <td id="truePositive">TP</td>
+                <td id="falseNegative">FN</td>
+            </tr>
+            <tr>
+                <td class="highlight">Negativ</td>
+                <td id="falsePositive">FP</td>
+                <td id="trueNegative">TN</td>
+            </tr>-->
+        </table>
+    </div>
+
+</div>
+
+
+ <div id="test-div" class="test-div">
+     <h2></h2>
+ </div>
+
+
+ <!-- Include Scala.js compiled code -->
+<script type="text/javascript" src="../application/uniproject/target/scala-2.13/myproject-fastopt.js"></script>
+
+
+</body>
+</html>
+

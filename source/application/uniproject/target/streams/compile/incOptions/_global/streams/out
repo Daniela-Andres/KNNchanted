@@ -1,0 +1,17 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\target\scala-2.13\classes.bak
+[debug] About to delete class files:
+[debug] 	DatenAbschnitt$$anonfun$createButton$2.class
+[debug] 	DatenAbschnitt$$anonfun$loadlocalCSVDataButtonListener$5.class
+[debug] 	DatenAbschnitt$$anonfun$de$DatenAbschnitt$$$nestedInanonfun$loadlocalCSVDataButtonListener$1$1.class
+[debug] 	DatenAbschnitt.class
+[debug] We backup class files:
+[debug] 	DatenAbschnitt$$anonfun$createButton$2.class
+[debug] 	DatenAbschnitt$$anonfun$loadlocalCSVDataButtonListener$5.class
+[debug] 	DatenAbschnitt$$anonfun$de$DatenAbschnitt$$$nestedInanonfun$loadlocalCSVDataButtonListener$1$1.class
+[debug] 	DatenAbschnitt.class
+[debug] Registering generated classes:
+[debug] 	DatenAbschnitt.class
+[debug] 	DatenAbschnitt$$anonfun$createButton$2.class
+[debug] 	DatenAbschnitt$$anonfun$de$DatenAbschnitt$$$nestedInanonfun$loadlocalCSVDataButtonListener$1$1.class
+[debug] 	DatenAbschnitt$$anonfun$loadlocalCSVDataButtonListener$5.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\danie\Programme\knn-website\knn_WebApp_pixelanzeige\source\application\uniproject\target\scala-2.13\classes.bak

@@ -1,0 +1,7 @@
+X;Y;Kategorie
+M;K
+Trainingsdaten
+1;2;M
+2;2;K
+Testdaten
+2;1;K
